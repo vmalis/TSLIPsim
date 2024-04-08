@@ -1,1 +1,2 @@
 # TSLIPsim
+Using Arterial Spin Labeling (ASL) MRI, we developed a simulation tool to explore magnetization in multi-Time-SLIP experiments. The tool is designed to accommodate varied labeling pulses and blood flow patterns. Our findings differentiate T1 recoveries across tissues and underscore the variations between odd and even tag pulses. The tool's adaptability to both constant and oscillatory flows offers insights into its potential application. This research may contribute to refining MRI acquisition protocols in diverse physiological scenarios.
