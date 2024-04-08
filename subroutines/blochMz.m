@@ -5,7 +5,7 @@ function [mz_results,mxy_results]=blochMz(T1,T2,dt,t_total,pulse_times)
     B0 = 3;             % Magnetic field strength in Tesla
     
     % Tissue properties
-    NumTissues = 3;
+    NumTissues = length(T1);
     num_pulse           = length(pulse_times);     % number of tag pulses
     pulse_flip_angle    = pi;                      % 180-degree pulse
     
